@@ -1,0 +1,34 @@
+{
+  "Businessdoc": "nomdefichier",
+
+  "records" :[
+    {
+      "numerocompte": "00000",
+      "nom": "ramyyyy",
+      "prenom": "hajji",
+      "debit": "00.00",
+      "credit": "100.00"
+    },
+    {
+      "numerocompte": "00001",
+      "nom": "ahlem"
+      "prenom": "ayari",
+      "debit": "20.00",
+      "credit": "159.00"
+    },
+    {
+      "numerocompte": "00002",
+      "nom": "adem",
+      "prenom": "benzarb",
+      "debit": "00.00",
+      "credit": "2500.00"
+    },
+    {
+      "numerocompte": "00003",
+      "nom": "ahmed",
+      "prenom": "makni",
+      "debit": "150.00",
+      "credit": "123.00"
+    }
+  ]
+}

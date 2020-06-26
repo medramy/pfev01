@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Business-doc>nomdefichier</Business-doc>
+  <records>
+    <numerocompte>0000000000000000</numerocompte>
+    <nom>NOM NOM NOM NOM NOM1</nom>
+    <prenom>PRENOM PRENOM PREN01</prenom>
+    <debit>00.00</debit>
+    <credit>1000.00</credit>
+  </records>
+  <records>
+    <numerocompte>numerocompte</numerocompte>
+    <nom>NOM NOM NOM NOM NOM2</nom>
+    <prenom>PRENOM PRENOM PREN02</prenom>
+    <debit>20.00</debit>
+    <credit>1500.00</credit>
+  </records>
+  <records>
+    <numerocompte>numerocompte</numerocompte>
+    <nom>NOM NOM NOM NOM NOM3</nom>
+    <prenom>PRENOM PRENOM PREN02</prenom>
+    <debit>00.00</debit>
+    <credit>250000.00</credit>
+  </records>
+  <records>
+    <numerocompte>numerocompte</numerocompte>
+    <nom>NOM NOM NOM NOM NOM3</nom>
+    <prenom>PRENOM PRENOM PREN03</prenom>
+    <debit>150.00</debit>
+    <credit>1234.00</credit>
+  </records>
+</root>
